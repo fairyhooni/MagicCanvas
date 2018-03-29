@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="MS949" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/ch Hwang/Desktop/MagicCanvas.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/MagicCanvas/operation.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=MagicCanvas/src&lt;com.main{MCPaint.java[MCPaint" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <folder path="/MagicCanvas/UML"/>
+        <javaElement handleIdentifier="=MagicCanvas/src"/>
+        <file path="/MagicCanvas/.project"/>
+        <file path="/MagicCanvas/.classpath"/>
+        <folder path="/MagicCanvas/ImageIcon"/>
+    </selectedElements>
+</jardesc>
